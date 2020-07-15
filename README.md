@@ -15,4 +15,4 @@ I usually work in the following domains:
 
 You can also read some shenanigans on my blog over there: https://yomguithereal.github.io/
 
-Finally, you can also support my Open Source work by sponsoring me directly on GitHub over here: https://github.com/sponsors/Yomguithereal
+Finally, you can support my Open Source work by sponsoring me directly on GitHub over here: https://github.com/sponsors/Yomguithereal
