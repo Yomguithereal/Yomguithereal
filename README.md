@@ -1,0 +1,1 @@
+Welcome to my GitHub page, weary traveler. My name is Guillaume Plique, aka [Yomguithereal](https://github.com/Yomguithereal) and I am a research engineer working with social science researchers and designers in Sciences Po's [médialab](https://medialab.sciencespo.fr/) in Paris.
